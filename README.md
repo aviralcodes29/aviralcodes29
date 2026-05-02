@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aviral 👋</h1>
+<h3 align="center">B.Tech CSE (AI/ML) student • I build AI/ML & experimental projects</h3>
 
-<!--
-**Aviralcodes29/Aviralcodes29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎯 Always cooking new project ideas • 🤖 Training models & myself • 💡 Turning random ideas into GitHub repos
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About me
+
+- 🎓 B.Tech CSE (AI/ML) student who loves learning by building  
+- 🧠 Interested in AI/ML projects, automation and "what if we build this?" ideas  
+- 🛠 Currently experimenting with new project ideas and improving my coding skills every day  
+- 📂 Goal: Fill this profile with cool AI/ML + development projects  
