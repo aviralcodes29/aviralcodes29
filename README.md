@@ -59,7 +59,8 @@
 ### 📫 How to reach me
 
 - 💼 GitHub: <a href="https://github.com/Aviralcodes29">github.com/Aviralcodes29</a>
-- (Add LinkedIn / portfolio here later when ready)
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/aviral-singh-a425a1379">linkedin.com/in/aviral-singh-a425a1379</a>
+- 📧 Email: <a href="mailto:aviral2529@gmail.com">aviral2529@gmail.com</a>
 
 ---
 
