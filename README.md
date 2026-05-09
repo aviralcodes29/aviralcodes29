@@ -34,19 +34,15 @@
 
 ---
 
-### 📊 GitHub stats (because why not?)
+### 📊 GitHub stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aviralcodes29&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviralcodes29&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviralcodes29&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ---
 
